@@ -1,0 +1,12 @@
+body {
+  margin: 50px auto;
+}
+.index-table {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  width: 150px;
+}
+a {
+  text-decoration: none;
+}
